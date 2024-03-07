@@ -1,4 +1,4 @@
-[![MasterHead](https://rhamadhanromly.blog.uma.ac.id/wp-content/uploads/sites/804/2023/04/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
+![MasterHead](https://rhamadhanromly.blog.uma.ac.id/wp-content/uploads/sites/804/2023/04/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)
 <h1 align="center">Hi 👋, I'm Arnaud Cruchaudet</h1>
 <h3 align="center">A passionate Data Scientist from France</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
